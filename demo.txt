@@ -1,3 +1,0 @@
-### This is example file
-
-Example file which will be renamed to demo
